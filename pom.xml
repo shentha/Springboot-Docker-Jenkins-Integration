@@ -195,6 +195,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>lms-docker</finalName>
 	</build>
 	<repositories>
 		<repository>
